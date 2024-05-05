@@ -19,6 +19,7 @@ Di dalam class **pasien** memiliki 8 Atribut, yaitu :
 * email
 * telp
 * aksi
+
   
 ## Alur Program
 1. Halaman index merupakan page paling awal. Halaman ini menampilkan seluruh data dari kelas pasien dalam bentuk tabel. Pada kolom terakhir terdapat 2 aksi yang dapat dilakukan yaitu ``Edit`` dan ``Hapus``. Terdapat juga button ``Add New Data`` untuk menambahkan data baru.
@@ -39,6 +40,7 @@ Di dalam class **pasien** memiliki 8 Atribut, yaitu :
    
 
 7. Jika kita klik `Hapus`, maka data yang dipilih akan langsung dihapus.
+
 
 ## Dokumentasi 
 ![image](https://github.com/tatxha/LP11DPBO2024C1/assets/134766457/b878e217-194c-498b-921e-ea953757899c)
